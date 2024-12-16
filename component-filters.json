@@ -12,11 +12,12 @@
       "image",
       "button",
       "title",
-      "form",
       "hero",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "form",
+      "form-embed"
     ]
   },
   {
